@@ -26,6 +26,8 @@ public class Exercise05 {
 
         System.out.println("VALOR A PAGAR: " + total );
 
+        scan.close();
+
     }
 
 }
