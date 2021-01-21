@@ -1,5 +1,3 @@
-package challenge01;
-
 import com.sun.media.sound.SimpleSoundbank;
 import com.sun.xml.internal.bind.v2.runtime.output.StAXExStreamWriterOutput;
 

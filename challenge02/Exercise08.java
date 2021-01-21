@@ -1,5 +1,3 @@
-package challenge02;
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -34,7 +32,7 @@ public class Exercise08 {
             System.out.printf("R$ %.2f", tax);
         }
 
-
+        scanner.close();
 
     }
 

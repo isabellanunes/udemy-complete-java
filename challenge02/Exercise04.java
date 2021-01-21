@@ -1,5 +1,3 @@
-package challenge02;
-
 import java.util.Scanner;
 
 public class Exercise04 {
@@ -21,6 +19,8 @@ public class Exercise04 {
             tempoDur = (24 - horaInicio) + horaFim;
             System.out.println("O JOGO DUROU " + tempoDur + " HORA(S)");
         }
+
+        scan.close();
 
     }
 }

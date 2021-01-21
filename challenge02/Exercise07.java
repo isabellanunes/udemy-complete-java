@@ -1,5 +1,3 @@
-package challenge02;
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -37,6 +35,7 @@ public class Exercise07 {
 
         }
 
+        scan.close();
 
     }
 }

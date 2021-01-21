@@ -1,5 +1,3 @@
-package challenge02;
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -34,6 +32,7 @@ public class Exercise05 {
             System.out.printf("Total: R$ %.2f", pay);
         }
 
+        scan.close();
 
     }
 }
