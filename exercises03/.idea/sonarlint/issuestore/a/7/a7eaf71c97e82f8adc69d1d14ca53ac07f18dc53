@@ -1,0 +1,14 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÄÕ¹ùÿÿÿÿ8¿ÙÓÌô.
+[
+java:S1854"9Remove this useless assignment to local variable "input".(Èªõ¢ùÿÿÿÿ8·’áÌô.
+H
+java:S1659"&Declare "gasoline" on a separate line.(šÅ£Úùÿÿÿÿ8çÄ¨Ìô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(À­³áúÿÿÿÿ8†ØÌô.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(À¦²¹8†ØÌô.
+F
+java:S1659"$Declare "diesel" on a separate line.(šÅ£Úùÿÿÿÿ8«ÿ©Ìô.
+0
+java:S1220""Move this file to a named package.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶·º8·’áÌô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¿ı‡ùÿÿÿÿ8†ØÌô.
