@@ -7,5 +7,6 @@
 
 This repository is used for all the challenges, classes and materials from [Java Course on Udemy](https://www.udemy.com/course/java-curso-completo/) by [Nelio Alves](https://www.udemy.com/user/nelio-alves/).
 
-## 📁 [challenge01](/challenge01/challenge01.pdf)
-## 📁 [challenge02](/challenge02/challenge02.pdf)
+## 📁 [exercises01](/exercises01/exercises01.pdf)
+## 📁 [exercises02](/exercises02/exercises02.pdf)
+## 📁 [exercises03](/exercises03/exercises03.pdf)
