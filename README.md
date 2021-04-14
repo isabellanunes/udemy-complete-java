@@ -12,7 +12,7 @@
 <br />
 
 <p align="center">
-    <img src=".readme/screenshot.png" width = "500px" />
+    <img src=".readme/screenshot.png" width="500px" />
 </p>
 
 <br />
