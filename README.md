@@ -1,38 +1,30 @@
 <h1 align="center">
-    Complete Java + Projects
+    Java Completo
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/isabellanunes/udemy-java-completo?style=flat-square" />
-    <img src="https://img.shields.io/github/languages/count/isabellanunes/udemy-java-completo?style=flat-square" />
-    <img src="https://img.shields.io/github/repo-size/isabellanunes/udemy-java-completo?style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/isabellanunes/udemy-java-completo?style=flat-square" />
+    <img src="https://img.shields.io/github/license/isabellanunes/udemy-complete-java?style=flat-square" />
+    <img src="https://img.shields.io/github/languages/count/isabellanunes/udemy-complete-java?style=flat-square" />
+    <img src="https://img.shields.io/github/repo-size/isabellanunes/udemy-complete-java?style=flat-square" />
+    <img src="https://img.shields.io/github/last-commit/isabellanunes/udemy-complete-java?style=flat-square" />
 </p>
 
 <br />
 
 <p align="center">
-    <img src=".readme/logo.png" width="200px" />
+    <img src=".readme/screenshot.png" width = "500px" />
 </p>
 
 <br />
 
 ## Technologies
-
-- Java
+Java 11
 
 ## Project
+This is a repository that contains all the exercises solved in [Nelio Alves' Complete Java course on Udemy](https://www.udemy.com/course/java-curso-completo/).
 
-This repository is used for all the challenges, classes and materials from [Java Course on Udemy](https://www.udemy.com/course/java-curso-completo/) by [Nelio Alves](https://www.udemy.com/user/nelio-alves/).
-
-### 📁 [exercises01](/exercises01/exercises01.pdf)
-### 📁 [exercises02](/exercises02/exercises02.pdf)
-### 📁 [exercises03](/exercises03/exercises03.pdf)
-
-## Run
-
-Just open the `file.java` on any JAVA IDE and compille.
+## Status
+In progress 🚧
 
 ## License
-
-This project is under the CC BY-SA 4.0. See [LICENSE](/LICENSE.md) file for more details.
+This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
