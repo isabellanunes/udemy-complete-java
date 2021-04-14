@@ -18,7 +18,7 @@
 <br />
 
 ## Technologies
-Java 11
+- Java 11
 
 ## Project
 This is a repository that contains all the exercises solved in [Nelio Alves' Complete Java course on Udemy](https://www.udemy.com/course/java-curso-completo/).
