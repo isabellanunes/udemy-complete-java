@@ -23,6 +23,9 @@
 ## Project
 This is a repository that contains all the exercises solved in [Nelio Alves' Complete Java course on Udemy](https://www.udemy.com/course/java-curso-completo/).
 
+## Run
+Open each file in any configured Java IDE and run, you hav to opena one by one, as they are independent files and programs.
+
 ## Status
 In progress 🚧
 
