@@ -1,5 +1,5 @@
 <h1 align="center">
-    Java Completo
+    Complete Java course with projects
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br />
 
 <p align="center">
-    <img src=".readme/screenshot.png" width="500px" />
+    <img src=".readme/image01.png" width="300px" />
 </p>
 
 <br />
@@ -21,10 +21,10 @@
 - Java 11
 
 ## Project
-This is a repository that contains all the exercises solved in [Nelio Alves' Complete Java course on Udemy](https://www.udemy.com/course/java-curso-completo/).
+This is a repository that contains all the exercises solved in [Nelio Alves' Complete Java course on Udemy](https://www.udemy.com/course/java-curso-completo/). The course is written in brasilian portuguese, so there's some content in these repository that are also written in portuguese.
 
 ## Run
-Open each file in any configured Java IDE and run, you hav to opena one by one, as they are independent files and programs.
+Open the project in any Java IDE and run which files sepparatly. Each file has it's own main method.
 
 ## Status
 In progress 🚧
