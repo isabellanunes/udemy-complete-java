@@ -17,14 +17,14 @@
 
 <br />
 
-## Technologies
+## Technologies and requirements
 - Java 11
 
 ## Project
 This is a repository that contains all the exercises solved in [Nelio Alves' Complete Java course on Udemy](https://www.udemy.com/course/java-curso-completo/). The course is written in brasilian portuguese, so there's some content in these repository that are also written in portuguese.
 
 ## Run
-Open the project in any Java IDE and run which files sepparatly. Each file has it's own main method.
+Open the project in any Java IDE and run which files sepparatly. Each one has it's own main method.
 
 ## Status
 In progress 🚧
