@@ -1,5 +1,5 @@
 <h1 align="center">
-    Complete Java course with projects
+    Complete Java, Object Oriented Programming and Projects
 </h1>
 
 <p align="center">
