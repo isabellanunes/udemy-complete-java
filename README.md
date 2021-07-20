@@ -11,12 +11,6 @@
 
 <br />
 
-<p align="center">
-    <img src=".readme/image01.png" width="300px" />
-</p>
-
-<br />
-
 ## Technologies and requirements
 - Java 11
 
